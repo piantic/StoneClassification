@@ -18,3 +18,7 @@
 
 ### Inference 
 - 추가 예정
+
+### ETC.
+- TF or Pytorch
+- 대상자는 비전공자도 있음
