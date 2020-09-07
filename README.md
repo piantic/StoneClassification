@@ -22,3 +22,9 @@
 ### ETC.
 - TF or Pytorch
 - 대상자는 비전공자도 있음
+
+
+To do list
+- [ ] Data crawling
+- [ ] Button
+- [ ] 
