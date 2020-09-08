@@ -26,5 +26,6 @@
 
 To do list
 - [ ] Data crawling
+- [ ] Duplicated image
 - [ ] Button
 - [ ] 
