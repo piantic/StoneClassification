@@ -25,7 +25,6 @@
 
 
 ### To do list
-- [x] Data crawling
-- [x] Remove overlaped image
-- [ ] Training & Test
+- [x] Loss, Acc curve
+- [x] Confusion matrix
 - [ ] Button
