@@ -24,8 +24,8 @@
 - 대상자는 비전공자도 있음
 
 
-To do list
-- [ ] Data crawling
-- [ ] Duplicated image
+### To do list
+- [x] Data crawling
+- [x] Remove overlaped image
+- [ ] Training & Test
 - [ ] Button
-- [ ] 
